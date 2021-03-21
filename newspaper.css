@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+#heading
+{ 
+
+ text-align: center;
+ 
+}
+span
+{
+font-weight: bold;
+background-color: rgb(128, 13, 13);
+color: black;
+font-size: 30px;
+}
+.selection a:hover
+{    background-color: rgb(139, 214, 95);
+    color: rgb(0, 0, 0);
+
+  }
+a
+{
+    background-color: rgb(205, 204, 211);
+    color: deeppink;
+    padding: 20px;
+    overflow: hidden;
+    padding: 10px 14px;
+
+}
